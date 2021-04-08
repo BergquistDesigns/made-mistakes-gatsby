@@ -20,7 +20,7 @@
   "dependencies": {
     "@githubprimer/octicons-react": "^8.5.0",
     "@weknow/gatsby-remark-twitter": "^0.2.3",
-    "gatsby": "^2.29.1",
+    "gatsby": "^2.32.12",
     "gatsby-awesome-pagination": "^0.3.6",
     "gatsby-image": "^2.8.0",
     "gatsby-plugin-catch-links": "^2.3.15",
