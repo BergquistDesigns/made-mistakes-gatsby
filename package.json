@@ -83,7 +83,7 @@
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-jsx-a11y": "^6.3.1",
     "eslint-plugin-prettier": "^3.3.0",
-    "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-react": "^7.23.2",
     "eslint-plugin-react-hooks": "^4.2.0",
     "lodash-addons": "^2.0.1",
     "netlify-cli": "^2.69.11",
